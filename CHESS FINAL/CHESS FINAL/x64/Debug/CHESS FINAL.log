@@ -1,0 +1,9 @@
+﻿  BSCS23070-Chess-Phase-3.cpp
+C:\Users\jivot\source\repos\CHESS FINAL\CHESS FINAL\BSCS23070-Chess-Phase-3.cpp(527,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\CHESS FINAL\CHESS FINAL\BSCS23070-Chess-Phase-3.cpp(536,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\CHESS FINAL\CHESS FINAL\BSCS23070-Chess-Phase-3.cpp(1227,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jivot\source\repos\CHESS FINAL\CHESS FINAL\BSCS23070-Chess-Phase-3.cpp(1266,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jivot\source\repos\CHESS FINAL\CHESS FINAL\BSCS23070-Chess-Phase-3.cpp(734,1): warning C4715: 'replacechar': not all control paths return a value
+C:\Users\jivot\source\repos\CHESS FINAL\CHESS FINAL\BSCS23070-Chess-Phase-3.cpp(1566,1): warning C4715: 'kingsearch': not all control paths return a value
+C:\Users\jivot\source\repos\CHESS FINAL\CHESS FINAL\BSCS23070-Chess-Phase-3.cpp(1717,1): warning C4715: 'validmove': not all control paths return a value
+  CHESS FINAL.vcxproj -> C:\Users\jivot\source\repos\CHESS FINAL\x64\Debug\CHESS FINAL.exe
